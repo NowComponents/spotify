@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-179602-embed-playlist": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Spotify Playlist",
+				"icon": "document-outline",
+				"description": "An embedded spotify playlist.",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_179602_spotify_0"
+}

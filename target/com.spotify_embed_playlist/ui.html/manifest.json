@@ -1,0 +1,27 @@
+{
+  "name": "@spotify/embed-playlist",
+  "version": "0.0.1",
+  "hash": "05992f3707f3fe42657852f220074216",
+  "external": {
+    "@servicenow/ui-core": {
+      "version": "18.2.5",
+      "hash": "d4d7cd9a4afb79a5762c168e735c37c3"
+    },
+    "@servicenow/ui-renderer-snabbdom": {
+      "version": "18.2.5",
+      "hash": "c49406352c934ddbc3cf8d2fb8f65040"
+    },
+    "@servicenow/sass-theme": {
+      "version": "18.4.2",
+      "hash": "b66ef8c9da938f61a0870584394184df"
+    },
+    "@servicenow/sass-kit": {
+      "version": "18.4.2",
+      "hash": "90c98cc8b5a0dd1983e4be8db75ea41e"
+    },
+    "@servicenow/library-translate": {
+      "version": "18.0.0",
+      "hash": "b393110d342bee9c5f9e04b0c6e5d430"
+    }
+  }
+}

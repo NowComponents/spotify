@@ -1,2 +1,5 @@
-# spotify
-Embed a Spotify widget in your Component
+@spotify/embed-playlist
+===============================================
+Embed a Spotify playlist Component
+
+Component Authors, provide some documentation for your users here!
